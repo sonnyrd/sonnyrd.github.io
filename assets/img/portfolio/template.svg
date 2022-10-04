@@ -26,7 +26,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.75277076"
-     inkscape:cx="102.28878"
+     inkscape:cx="15.941108"
      inkscape:cy="455.65"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
@@ -39,7 +39,7 @@
     <color-profile
        name="Apple-RGB"
        xlink:href="file:///app/share/color/icc/colord/AppleRGB.icc"
-       id="color-profile966" />
+       id="color-profile406" />
     <rect
        x="1.1414536"
        y="4.4855852"
@@ -67,26 +67,21 @@
        xml:space="preserve"
        style="font-size:24.6944px;fill:#ffffff;stroke-width:1.58078"
        x="175.27301"
-       y="52.054501"
+       y="67.771202"
        id="text119"
        transform="scale(0.76156236,1.3130901)"
-       inkscape:export-filename="portfolio-2.png"
+       inkscape:export-filename="portfolio-3.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
-         id="tspan117"
          style="font-size:24.6944px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.58078"
          x="175.27301"
-         y="52.054501">AIRLINE </tspan><tspan
+         y="67.771202"
+         id="tspan123">Vegetable</tspan><tspan
          sodipodi:role="line"
          style="font-size:24.6944px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.58078"
          x="175.27301"
-         y="82.922501"
-         id="tspan121">PASSENGER</tspan><tspan
-         sodipodi:role="line"
-         style="font-size:24.6944px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:1.58078"
-         x="175.27301"
-         y="113.7905"
-         id="tspan123">SATISFACTION</tspan></text>
+         y="98.639206"
+         id="tspan403">Classification</tspan></text>
   </g>
 </svg>
